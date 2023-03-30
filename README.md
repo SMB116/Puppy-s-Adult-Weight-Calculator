@@ -14,6 +14,7 @@ Enter your puppy's weight in pounds when prompted. The program will handle inval
 Enter your puppy's age in weeks when prompted. The program will handle invalid input by asking for a valid age.
 The program will output the expected adult weight and size category based on the following size chart:
 | Adult Weight |	Size Category
+|----------|----------|
 | <=12 lbs |	x-small
 | <=20 lbs |	small
 | <=49 lbs |	medium
